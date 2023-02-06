@@ -48,6 +48,11 @@ Please submit your proposal in a **group message with JD && Carlos** via Slack.
 
 <img src="/WireFrame.png" width="500"/>
 
+
+4. ERD 
+<img src="/ERD.png" width="500">
+
+
     
     
 
