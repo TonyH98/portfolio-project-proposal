@@ -46,7 +46,7 @@ Please submit your proposal in a **group message with JD && Carlos** via Slack.
 
 3. Wireframe 
 
-<img src="/WireFrame.png" width="200"/>
+<img src="/WireFrame.png" width="500"/>
 
     
     
