@@ -37,7 +37,8 @@ Please submit your proposal in a **group message with JD && Carlos** via Slack.
     * A user should be able to see a list of products on the home page
     * The user should be able to filter through an item by product category or using a search bar 
     * The user should be able to click on the item and be able to see the products detail such as name, price, manafacturer, and description
-    * In the product detail the user should also be able to see a list of reviews and make their reviews as well
+    * In the product detail the user should also be able to see a list of reviews and make their own reviews as well
+    * The user should be able to edit and delete their review
     * In the Product details there should be button where they can add the product into their shopping cart 
     * In the nav bar their should be shopping cart icon where the user should be able to click on and see whats in their shopping cart 
     * in the shopping cart page there should the list of products that the user wants to buy and see their total 
